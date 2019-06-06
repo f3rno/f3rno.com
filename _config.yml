@@ -1,28 +1,29 @@
 # Site settings
-title: Leah Rutherford
-projects: true # false to hide my work
+title: f3rno
 description:  >-
-  Turpis egestas integer eget aliquet nibh praesent tristique magna sit amet 
-  purus gravida quis blandit turpis cursus in hac habitasse platea <a href="#">dictumst</a> quisque sagittis.
+  Personal website of Cris Mihalache (f3rno)
 lang: en-US
-timezone: Asia/Jakarta
+timezone: Europe/Bucharest
 icon: favicon.ico
 
 # User settings
 author: 
-  name: Leah Rutherford
-  username: piharpi
-  email: justharpi@gmail.com
+  name: Cris Mihalache
+  username: f3rno
+  email: me@f3rno.com
   avatar: '/assets/img/avatar.png'
 
 # Url settings
-url: https://piharpi.github.io/bangsring
+url: https://f3rno.com
 baseurl: ""
 permalink: /:categories/:title
-google_analytics: UA-105586262-2
-fb_appid: 1806380839422028
+google_analytics: UA-88650524-2
+fb_appid:
 
+projects: false
 collections:
+  tips:
+    output: false
   posts:
     output: true
 

@@ -4,8 +4,8 @@
 - title : Blog
   url   : /blog
 
-- title : Tips
-  url   : /tips
+# - title : Tips
+#   url   : /tips
 
 - title : About 
   url   : /about

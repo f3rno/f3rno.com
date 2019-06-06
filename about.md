@@ -1,25 +1,15 @@
 ---
-title: About bangsring theme
+title: About Me
 permalink: /about/
-excerpt: this is for page description
+excerpt: Programmer, backpacker, hacker, and persuer of fine landscapes
 ---
-Website ini untuk mendokumentasikan 🎒 petualangan saya didunia pemprograman, Blog ini berjalan menggunakan jekyllrb.com, yang dihosting melalui netlify.com dan menggunakan tema [Bangsring](http://github.com/piharpi/bangsring) terdapat beberapa progress untuk blog ini :
-
-- [ ] Social link icon.
-- [ ] Night mode Theme.
-- [ ] Nambahin HTML microdata.
-- [ ] Rapihin file ``.scss``.
-- [ ] ``<h1>`` - ``<h6>`` anchor hover.
-- [ ] Tags.
-<!-- flexible image layouts = menyesuaikan tata letak gambar sendiri jika banyak gambar yang di upload -->
-
-Silahkan melapor jika terdapat kesalahan diblog ini melalui **[issue](https://github.com/piharpi/me/issues/new?template=bug_report.md)** github.
+Programmer, backpacker, hacker, and persuer of fine landscapes
 
 ### 🎈 Find me 
-- github.com/**piharpi** 
-- telegram.com/**piharpi**
-- twitter.com/**piharpi**
-- ![email](https://piharpi.github.io/bangsring/assets/img/email.png), an image to avoid **spam!**
+- <a href="http://github.com/f3rno" target="_blank">github.com/**f3rno**</a>
+- <a href="http://telegram.me/f3rno" target="_blank">telegram.me/**f3rno**</a>
+- <a href="http://twitter.com/f3rno" target="_blank">twitter.com/**f3rno**</a>
+- <a href="http://linkedin.com/in/crismihalache" target="_blank">linkedin.com/in/**crismihalache**</a>
 
 ##### Credits: 
-- Mountain Nature icon by [Pondok Multimedia](https://iconscout.com/icon/nature-153).
+- Template courtesy of **piharpi**: https://github.com/piharpi/bangsring
